@@ -9,8 +9,10 @@
 ### Conect with me
 - [LinkedIn]
 - [HackerRank]
+- [Kaggle]
 
 [BIT Mesra]: https://www.bitmesra.ac.in/
 [LinkedIn]: https://www.linkedin.com/in/ashar-shakil-710a1a205/
 [HackerRank]: https://www.hackerrank.com/as1400_py
+[Kaggle]: https://www.kaggle.com/asharshakil
 
